@@ -1,0 +1,21 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">UBcov</string>
+    <string name="ubcov">UBcov</string>
+    <string name="belirtiler">Belirtiler</string>
+    <string name="korunma">Korunma</string>
+    <string name="statistik">İstatistik</string>
+    <string name="tedavi">Tedavi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fever">Babies and children. In babies and children, the average body temperature ranges from 97.9°F (36.6°C) to 99°F (37.2°C). Adults. Among adults, the average body temperature ranges from 97°F (36.1°C) to 99°F (37.2°C). Adults over age 65. In older adults, the average body temperature is lower than 98.6°F (36.2°C).</string>
+    <string name="dryCough">A dry cough is a cough that doesn’t bring up mucus. It may feel like you have a tickle in the back of your throat triggering your cough reflex, giving you hacking coughs.</string>
+    <string name="tired">Fatigue is a lingering tiredness that is constant and limiting. With fatigue, you have unexplained, persistent, and relapsing exhaustion. It\'s similar to how you feel when you have the flu or have missed a lot of sleep.</string>
+    <string name="other">Shortness of breath or difficulty breathing\n Muscle aches\n Chills\n Sore throat\n Loss of taste or smell\n Headache\n Chest pain</string>
+    <string name="handwash">Clean your hands frequently. Use a soap, water, or alcohol based disinfectant.Wet your hands with clean, running water (warm or cold), turn off the tap, and apply soap. Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails. Scrub your hands for at least 20 seconds.</string>
+    <string name="mask">Cover your face with a cloth face mask in public spaces, such as the grocery store, where it\'s difficult to avoid close contact with others, especially if you\'re in an area with ongoing community spread. Only use nonmedical cloth masks — surgical masks and N95 respirators should be reserved for health care providers.</string>
+    <string name="face">Avoid touching your eyes, nose and mouth.</string>
+    <string name="distancekeep">Avoid close contact (within about 6 feet, or 2 meters) with anyone who is sick or has symptoms.</string>
+    <string name="stayhome">Stay home from work, school and public areas if you\'re sick, unless you\'re going to get medical care. Avoid public transportation, taxis and ride-sharing if you\'re sick.</string>
+    <string name="elbow">Cover your nose and mouth with the inside of your elbow or a handkerchief while coughing or sneezing.</string>
+</resources>
