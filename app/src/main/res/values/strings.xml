@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">UBcov</string>
     <string name="ubcov">UBcov</string>
-    <string name="belirtiler">Belirtiler</string>
-    <string name="korunma">Korunma</string>
+    <string name="belirtiler">Symptoms</string>
+    <string name="korunma">Protection</string>
     <string name="statistik">İstatistik</string>
     <string name="tedavi">Tedavi</string>
 
